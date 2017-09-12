@@ -1,0 +1,8 @@
+*.xml
+*.buildinfo
+*.a
+*.d
+*.o
+*.elf
+*.hex
+
